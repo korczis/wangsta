@@ -1,6 +1,6 @@
 # wangsta
 
-- Cross Database (Wanna Be) Lock Free Counter (ID).
+- Distributed, cross DB, Counter (ID).
 
 **Easy to play, hard to master.**
 
@@ -8,7 +8,7 @@
 
 *Goal is simple.*
 
-- Consistent, cross DB Engines, reliable ID, which can be used for polyglot-db inter-op.
+- Consistent, cross DB Engines, reliable Counter (ID), which can be used for poly-db interop.
 
 *One ID which joins them all.*
 
